@@ -1,5 +1,4 @@
-
-![](https://img.shields.io/badge/JS%20Assignments%20-28/08/2022%20-brightgreen)
+![](https://img.shields.io/badge/JS%20Assignments%20-Part%201%20-brightgreen)
 
 ![](https://img.shields.io/badge/Tech%20Stack-JavaScript%20-blue)
 
@@ -12,7 +11,7 @@
 &nbsp;
 ***
 
-# **Javascript Assignment Dated 28/08/2022**
+# **Javascript Assignment Part 1**
 
 &nbsp;
 ***
